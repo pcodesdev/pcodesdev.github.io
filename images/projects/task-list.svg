@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" fill="none">
+  <rect width="960" height="540" rx="24" fill="#E9F0EE"/>
+  <circle cx="126" cy="460" r="155" fill="#DAE8E4"/><circle cx="849" cy="72" r="190" fill="#E8E0CC"/>
+  <rect x="83" y="48" width="794" height="444" rx="20" fill="#FBFCF8" stroke="#C8D4D0" stroke-width="2"/>
+  <path d="M83 68a20 20 0 0 1 20-20h754a20 20 0 0 1 20 20v72H83z" fill="#19343B"/>
+  <circle cx="122" cy="92" r="22" fill="#E9B85F"/><path d="m111 92 8 8 15-18" stroke="#19343B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="161" y="101" fill="#F7F8F3" font-family="Arial,sans-serif" font-size="22" font-weight="700">TODAY, WELL ORGANIZED</text>
+  <rect x="111" y="169" width="475" height="62" rx="12" fill="#F1F5F2" stroke="#CEDBD6"/>
+  <circle cx="143" cy="200" r="12" stroke="#6F8886" stroke-width="2"/><text x="169" y="206" fill="#879594" font-family="Arial,sans-serif" font-size="16">Add a task to your list...</text>
+  <rect x="500" y="180" width="72" height="40" rx="8" fill="#167C80"/><text x="517" y="205" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">ADD</text>
+  <text x="112" y="273" fill="#273D42" font-family="Arial,sans-serif" font-size="17" font-weight="700">YOUR TASKS</text><text x="514" y="273" fill="#73827F" font-family="Arial,sans-serif" font-size="13">SORT  ↕</text>
+  <g><rect x="111" y="292" width="475" height="52" rx="10" fill="#fff" stroke="#DDE5E1"/><circle cx="142" cy="318" r="10" stroke="#167C80" stroke-width="2.5"/><text x="166" y="324" fill="#32474B" font-family="Arial,sans-serif" font-size="15">Plan the week</text><rect x="505" y="311" width="42" height="14" rx="7" fill="#F4E4C8"/></g>
+  <g><rect x="111" y="354" width="475" height="52" rx="10" fill="#fff" stroke="#DDE5E1"/><circle cx="142" cy="380" r="10" fill="#167C80"/><path d="m137 380 4 4 7-9" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="166" y="386" fill="#8B9894" font-family="Arial,sans-serif" font-size="15" text-decoration="line-through">Review project notes</text><rect x="505" y="373" width="42" height="14" rx="7" fill="#DDEDE6"/></g>
+  <g><rect x="111" y="416" width="475" height="52" rx="10" fill="#fff" stroke="#DDE5E1"/><circle cx="142" cy="442" r="10" stroke="#167C80" stroke-width="2.5"/><text x="166" y="448" fill="#32474B" font-family="Arial,sans-serif" font-size="15">Finish a focused task</text><rect x="505" y="435" width="42" height="14" rx="7" fill="#F4E4C8"/></g>
+  <rect x="623" y="169" width="218" height="299" rx="15" fill="#EAF3F0"/>
+  <text x="650" y="210" fill="#536C69" font-family="Arial,sans-serif" font-size="13" font-weight="700">PROGRESS</text>
+  <circle cx="732" cy="300" r="58" stroke="#D0DFD9" stroke-width="13"/><path d="M732 242a58 58 0 1 1-56 73" stroke="#167C80" stroke-width="13" stroke-linecap="round"/>
+  <text x="713" y="307" fill="#19343B" font-family="Arial,sans-serif" font-size="23" font-weight="700">2/5</text>
+  <text x="664" y="390" fill="#30474B" font-family="Arial,sans-serif" font-size="15" font-weight="700">A little progress</text><text x="660" y="414" fill="#748480" font-family="Arial,sans-serif" font-size="12">makes the day clearer.</text>
+</svg>

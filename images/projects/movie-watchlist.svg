@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" fill="none">
+  <rect width="960" height="540" rx="24" fill="#1A2028"/>
+  <path d="M0 0h960v540H0z" fill="url(#wash)"/>
+  <circle cx="822" cy="68" r="170" fill="#29313B"/>
+  <rect x="66" y="48" width="828" height="444" rx="18" fill="#F7F5EF"/>
+  <path d="M84 48h792a18 18 0 0 1 18 18v51H66V66a18 18 0 0 1 18-18Z" fill="#252B34"/>
+  <circle cx="96" cy="83" r="5" fill="#E58168"/><circle cx="115" cy="83" r="5" fill="#E4BD62"/><circle cx="134" cy="83" r="5" fill="#78BFAE"/>
+  <text x="171" y="90" fill="#F7F5EF" font-family="Arial,sans-serif" font-size="18" font-weight="700">SCREENING ROOM</text>
+  <text x="724" y="89" fill="#D4D5D1" font-family="Arial,sans-serif" font-size="14">MY WATCHLIST</text>
+  <text x="105" y="155" fill="#222A32" font-family="Arial,sans-serif" font-size="23" font-weight="700">Find your next film</text>
+  <rect x="104" y="171" width="750" height="44" rx="10" fill="#fff" stroke="#D8D8D1" stroke-width="2"/>
+  <circle cx="129" cy="192" r="8" stroke="#69767B" stroke-width="2"/><path d="m135 198 7 7" stroke="#69767B" stroke-width="2" stroke-linecap="round"/><text x="155" y="197" fill="#9AA2A3" font-family="Arial,sans-serif" font-size="14">Search by title</text>
+  <text x="105" y="253" fill="#4C5C60" font-family="Arial,sans-serif" font-size="14" font-weight="700">SAVED TO WATCH</text>
+  <g>
+    <rect x="104" y="270" width="174" height="170" rx="10" fill="#DCE9E5"/><rect x="104" y="270" width="174" height="108" rx="10" fill="#397F7B"/>
+    <circle cx="190" cy="323" r="31" fill="#E9B960"/><path d="m183 308 24 15-24 15z" fill="#24343A"/><path d="M104 365 154 332l35 25 36-39 53 48v12H104z" fill="#254B50" opacity=".8"/>
+    <text x="120" y="400" fill="#21333A" font-family="Arial,sans-serif" font-size="15" font-weight="700">A film to discover</text><text x="120" y="421" fill="#6C797A" font-family="Arial,sans-serif" font-size="12">Details at a glance</text>
+  </g>
+  <g>
+    <rect x="303" y="270" width="174" height="170" rx="10" fill="#EFE2D6"/><rect x="303" y="270" width="174" height="108" rx="10" fill="#D57962"/>
+    <circle cx="390" cy="323" r="33" fill="#F1C77A"/><path d="M357 351c13-23 51-25 66 0v27h-66z" fill="#874B47"/><circle cx="390" cy="322" r="12" fill="#F8E3B7"/>
+    <text x="319" y="400" fill="#392F31" font-family="Arial,sans-serif" font-size="15" font-weight="700">A story to revisit</text><text x="319" y="421" fill="#786E6C" font-family="Arial,sans-serif" font-size="12">Your saved collection</text>
+  </g>
+  <g>
+    <rect x="502" y="270" width="174" height="170" rx="10" fill="#E5E4D9"/><rect x="502" y="270" width="174" height="108" rx="10" fill="#557C80"/>
+    <path d="M589 294 616 337h-54z" fill="#E8BD63"/><circle cx="589" cy="326" r="15" fill="#F3DDA8"/><path d="m561 360 28-23 28 23v18h-56z" fill="#354E55"/>
+    <text x="518" y="400" fill="#29383A" font-family="Arial,sans-serif" font-size="15" font-weight="700">A title for later</text><text x="518" y="421" fill="#727B77" font-family="Arial,sans-serif" font-size="12">Saved in your list</text>
+  </g>
+  <rect x="701" y="270" width="153" height="170" rx="10" fill="#E8E6DC" stroke="#D5D2C7" stroke-dasharray="6 6"/>
+  <circle cx="777" cy="328" r="25" fill="#E2B85C"/><path d="M777 316v24m-12-12h24" stroke="#333B3D" stroke-width="3" stroke-linecap="round"/><text x="723" y="382" fill="#505C5E" font-family="Arial,sans-serif" font-size="13">Keep exploring</text>
+  <defs><linearGradient id="wash" x1="60" y1="10" x2="900" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#33414B"/><stop offset="1" stop-color="#171C23"/></linearGradient></defs>
+</svg>
