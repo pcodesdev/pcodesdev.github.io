@@ -1,0 +1,18 @@
+"use strict";(globalThis.webpackChunkpcodesdev||=[]).push([[169],{876(e,s,t){t.d(s,{A:()=>c});var i=t(5043);var a=t(7684),r=t(4574),n=t(579);const o=r.Ay.span`
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+
+  i,
+  svg {
+    background-color: ${e=>e.backgroundColor};
+  }
+  &:hover i,
+  &:hover svg {
+    background-color: #233c4a;
+    transition: 0.3s ease-in;
+  }
+`,c=(0,i.memo)(function(e){return(0,n.jsx)("div",{className:"social-media-div",children:a.ze.map((s,t)=>(0,n.jsx)("a",{href:s.link,className:"icon-button","aria-label":s.name,target:"_blank",rel:"noopener noreferrer",style:{textDecoration:"none"},children:(0,n.jsx)(o,{...s,...e,children:"x"===s.icon?(0,n.jsx)("svg",{"aria-hidden":"true",viewBox:"0 0 24 24",focusable:"false",style:{textDecoration:"none"},children:(0,n.jsx)("path",{d:"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.83L0 1.154h7.594l5.243 6.932zm-1.29 19.493h2.039L6.486 3.24H4.298z"})}):(0,n.jsx)("i",{className:`fab ${s.fontAwesomeIcon}`,"aria-hidden":"true",style:{textDecoration:"none"}})})},t))})})},634(e,s,t){t.r(s),t.d(s,{default:()=>N});var i=t(5043),a=t(7625),r=t(2582);var n=t(876),o=t(7684),c=t(106),l=t(579);const h=({src:e,alt:s,className:t,style:i,...a})=>(0,l.jsx)("img",{src:e,alt:s,className:t,style:i,loading:"lazy",...a}),d=t(8382),m=t(7561),x=t(4029);function g(e){const s=e.theme;return(0,l.jsx)("div",{className:"greet-main",id:"greeting",children:(0,l.jsxs)("div",{className:"greeting-main",children:[(0,l.jsx)("div",{className:"greeting-text-div",children:(0,l.jsxs)("div",{children:[(0,l.jsx)("h1",{className:"greeting-text",style:{color:s.text},children:o.O$.title}),o.O$.nickname&&(0,l.jsxs)("h2",{className:"greeting-nickname",style:{color:s.text},children:["( ",o.O$.nickname," )"]}),(0,l.jsx)("p",{className:"greeting-text-p subTitle",style:{color:s.secondaryText},children:o.O$.subTitle}),(0,l.jsx)(c.z,{bottom:!0,duration:400,delay:200,children:(0,l.jsx)("div",{className:"home-social-motion",children:(0,l.jsx)(n.A,{theme:s})})}),(0,l.jsx)(c.z,{bottom:!0,duration:430,delay:250,children:(0,l.jsxs)("div",{className:"home-cta-container",children:[(0,l.jsx)("div",{className:"home-highlights","aria-label":"Professional highlights",children:o.be.map(e=>(0,l.jsx)("span",{className:"home-highlight",children:e},e))}),(0,l.jsxs)("nav",{className:"home-actions","aria-label":"Explore portfolio",children:[(0,l.jsx)(r.N_,{className:"home-action",to:"/about",children:"Meet Peter"}),(0,l.jsx)(r.N_,{className:"home-action home-action-primary",to:"/projects",children:"Explore My Work"}),(0,l.jsx)(r.N_,{className:"home-action",to:"/experience",children:"View Professional Experience"}),(0,l.jsx)(r.N_,{className:"home-action",to:"/contact",children:"Contact Me"})]})]})})]})}),(0,l.jsx)("div",{className:"greeting-image-div",children:(0,l.jsx)(h,{alt:"Peter Njuguna Smiling",src:x,srcSet:`${d} 480w, ${m} 720w, ${x} 960w`,sizes:"(max-width: 768px) 90vw, 42vw",loading:"eager",fetchpriority:"high",width:"960",height:"960"})})]})})}var j=t(7473),p=t(1768);class v extends i.Component{render(){return(0,l.jsxs)("div",{children:[(0,l.jsx)(a.A,{theme:this.props.theme}),(0,l.jsxs)("div",{className:"container",children:[(0,l.jsx)(g,{theme:this.props.theme}),(0,l.jsx)(j.A,{theme:this.props.theme}),(0,l.jsx)(p.A,{theme:this.props.theme})]})]})}}const N=v},7561(e,s,t){e.exports=t.p+"static/media/Peter-Portfolio-720.63f20905263ccc66e7a9.webp"},8382(e,s,t){e.exports=t.p+"static/media/Peter-Portfolio-480.9cca032d65e1150434ef.jpg"},4029(e,s,t){e.exports=t.p+"static/media/Peter-Portfolio-960.ad6625d18194b041551f.jpg"}}]);
+//# sourceMappingURL=169.0d140ac8.chunk.js.map
